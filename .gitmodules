@@ -4,3 +4,6 @@
 [submodule "src/vircadia-world"]
 	path = src/vircadia-world
 	url = https://github.com/vircadia/vircadia-world.git
+[submodule "vircadia-web-sdk"]
+	path = vircadia-web-sdk
+	url = https://github.com/vircadia/vircadia-web-sdk.git
